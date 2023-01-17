@@ -1,0 +1,32 @@
+
+.Header-header {
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+    border-bottom: 1px solid #e6e6e6;
+    margin-bottom: 10px;
+}
+
+.Header-links-wrapper ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.Header-links-wrapper ul li {
+    padding-left: 10px ;
+}
+
+.Header-links-wrapper ul li a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+} 
+
+.Header-links-wrapper ul li a:hover {
+    color: slategray
+}
