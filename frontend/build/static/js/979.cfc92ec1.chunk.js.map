@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/979.cfc92ec1.chunk.js","mappings":"6HAQA,UANwB,WACpB,OAAO,+BACJ,wBAAI,eAEX,C","sources":["screens/DashboardScreen.js"],"sourcesContent":["\r\n\r\nconst Dashboardscreen = () => {\r\n    return <>\r\n       <h1>Dashboard</h1>\r\n    </>\r\n}\r\n\r\nexport default Dashboardscreen;"],"names":[],"sourceRoot":""}
